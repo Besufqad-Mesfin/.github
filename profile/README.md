@@ -32,7 +32,7 @@ Our projects leverage a variety of technologies, including:
 We welcome contributions! If you're passionate about creating profitable and impactful projects, join us. Whether you're an entrepreneur, developer, or industry professional, your ideas and contributions are valued. Check out our [Contribution Guidelines](#) to get started.
 
 ## 📢 Stay Connected
-📧 **Email**: [your-email@example.com](mailto:tekahazi06@example.com)  
+📧 **Email**: [tekahazi06@example.com](mailto:tekahazi06@example.com)  
 💬 **Discussions**: [GitHub Discussions](https://github.com/Besufqad-Mesfin/discussions)  
 
 ---
