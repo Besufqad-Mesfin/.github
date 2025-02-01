@@ -5,11 +5,11 @@
 🚀 **Besufqad Mesfin** is an organization dedicated to creating innovative and impactful projects that have the potential to generate revenue. We focus on collaboration, innovation, and excellence in software development to deliver high-quality, scalable solutions.
 
 ## 🎯 Our Objective
-Besufqad Mesfin is an organization focused on building the best projects that can generate money. Our mission is to create profitable, valuable projects that make a real impact while fostering a collaborative and creative environment.
+Besufqad Mesfin is an organization focused on building the best projects to generate money. Our mission is to create profitable, valuable projects that make a real impact while fostering a collaborative and creative environment.
 
 ## 📂 What We Do
 - 🏗️ **Build Revenue-Generating Projects** – We focus on developing projects with strong potential for monetization.
-- 🤝 **Collaborate & Innovate** – We work together to brainstorm, develop, and refine ideas into successful business solutions.
+- 🤝 **Collaborate & Innovate** – We brainstorm, develop, and refine ideas into successful business solutions.
 - 💡 **Create Impactful Solutions** – Delivering products and services that solve real-world problems and provide value to users.
 - 🌱 **Growth and Learning** – Continuously learning and improving our skills to stay ahead in the tech industry.
 
@@ -33,7 +33,7 @@ We welcome contributions! If you're passionate about creating profitable and imp
 
 ## 📢 Stay Connected
 📧 **Email**: [tekahazi06@example.com](mailto:tekahazi06@example.com)  
-💬 **Discussions**: [GitHub Discussions](https://github.com/Besufqad-Mesfin/discussions)  
+💬 **Discussions**: [GitHub Discussions](https://github.com/orgs/Besufqad-Mesfin/discussions)  
 
 ---
 
